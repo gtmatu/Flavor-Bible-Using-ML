@@ -1,0 +1,10 @@
+recipe-scrapers
+ingredient-parser
+tabulate
+numpy
+matplotlib
+sklearn
+beautifulsoup4>=4.6.0
+coverage>=4.5.1
+requests>=2.19.1
+pandas

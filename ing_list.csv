@@ -1,0 +1,482 @@
+,ingredient,cluster
+0,acorn squash,0
+1,active dry yeast,0
+2,agave nectar,1
+3,allspice,0
+4,almond butter,1
+5,almond extract,1
+6,almond flour,1
+7,almond milk,0
+8,almond paste,1
+9,almonds,1
+10,amaretto liqueur,1
+11,ameri cheese,0
+12,anchovy,0
+13,anchovy paste,0
+14,angel hair pasta,0
+15,angostura bitters,0
+16,apple,1
+17,apple cider vinegar,0
+18,apple juice,1
+19,apple sauce,1
+20,apricot,1
+21,apricot jam,1
+22,arborio rice,0
+23,artichoke,0
+24,artichoke heart,0
+25,arugula,0
+26,asiago cheese,0
+27,asparagus,0
+28,avocado,0
+29,baby carrot,0
+30,bacon,0
+31,baguette,0
+32,baking powder,1
+33,baking soda,1
+34,balsamic vinegar,0
+35,banana,1
+36,barbeque sauce,0
+37,barley,0
+38,basil,0
+39,bay leaf,0
+40,bean sprouts,0
+41,beans,0
+42,beef,0
+43,beef broth,0
+44,beer,0
+45,beets,0
+46,bell pepper,0
+47,berries,1
+48,black beans,0
+49,black eyed peas,0
+50,blackberries,1
+51,blue cheese,0
+52,blueberries,1
+53,bok choy,0
+54,bourbon,1
+55,brandy,1
+56,bread,0
+57,bread crumbs,0
+58,bread flour,0
+59,broccoli,0
+60,broccoli rabe,0
+61,brown rice,0
+62,brown sugar,1
+63,brussel sprout,0
+64,bulgur,0
+65,butter,0
+66,buttermilk,0
+67,butternut squash,0
+68,butterscotch chips,1
+69,cabbage,0
+70,cajun seasoning,0
+71,cake,1
+72,cake flour,1
+73,cannellini beans,0
+74,cantaloupe,1
+75,capers,0
+76,caraway seeds,0
+77,cardamom,0
+78,cardamom pods,0
+79,carrot,0
+80,cashew,0
+81,cauliflower,0
+82,cayenne pepper,0
+83,celery,0
+84,celery leaves,0
+85,celery salt,0
+86,celery seeds,0
+87,champagne,1
+88,cheddar,0
+89,cheese,0
+90,cheese blend,0
+91,cherries,1
+92,cherry pie filling,1
+93,chestnuts,1
+94,chia seeds,1
+95,chicken,0
+96,chicken broth,0
+97,chickpeas,0
+98,chili powder,0
+99,chives,0
+100,chocolate,1
+101,chocolate cake mix,1
+102,chocolate chips,1
+103,chocolate syrup,1
+104,chopped nuts,1
+105,chorizo,0
+106,cilantro,0
+107,cilantro seeds,0
+108,cinnamon,1
+109,clam juice,0
+110,clams,0
+111,clove,0
+112,club soda,0
+113,cocoa powder,1
+114,coconut,1
+115,coconut extract,1
+116,coconut milk,1
+117,coconut oil,0
+118,cod,0
+119,coffee,1
+120,coffee liqueur,1
+121,cognac,1
+122,condensed milk,1
+123,confectioner's sugar,1
+124,corn,0
+125,corn kernels,0
+126,corn oil,0
+127,corn syrup,1
+128,corn tortillas,0
+129,cornflakes,1
+130,cornmeal,0
+131,cornstarch,0
+132,cottage cheese,0
+133,couscous,0
+134,crabmeat,0
+135,crackers,0
+136,cranberries,1
+137,cranberry juice,1
+138,cranberry sauce,1
+139,cream,0
+140,cream cheese,0
+141,cream of chicken soup,0
+142,cream of mushroom soup,0
+143,cream of tartar,0
+144,creole seasoning,0
+145,croutons,0
+146,cr�me fraiche,0
+147,cucumber,0
+148,cumin,0
+149,currants,1
+150,curry leaves,0
+151,curry powder,0
+152,dates,1
+153,dill,0
+154,double cream,0
+155,dressing,0
+156,dried chile,0
+157,egg,0
+158,egg noodles,0
+159,egg substitute powder,0
+160,egg white,1
+161,eggnog,1
+162,eggplant,0
+163,escarole,0
+164,evaporated milk,1
+165,fennel,0
+166,fennel seeds,0
+167,feta,0
+168,fettucine,0
+169,fig,1
+170,fish,0
+171,fish sauce,0
+172,fish stock,0
+173,five spice,0
+174,five spice powder,0
+175,flank steak,0
+176,flax seeds,0
+177,flour,0
+178,flour tortillas,0
+179,fontina cheese,0
+180,fresh chile,0
+181,frosting,1
+182,fruit,1
+183,garam masala,0
+184,garlic,0
+185,garlic powder,0
+186,gelatin,0
+187,ghee,0
+188,gin,1
+189,ginger,0
+190,ginger ale,1
+191,goat cheese,0
+192,goji berries,1
+193,golden syrup,1
+194,gouda,0
+195,graham crackers,1
+196,grand mariner,1
+197,grapefruit,1
+198,grapefruit juice,1
+199,grapes,1
+200,grapeseed oil,0
+201,greek yogurt,1
+202,green beans,0
+203,green food coloring,0
+204,green peas,0
+205,greens,0
+206,grenadine,1
+207,gruyere,0
+208,halibut,0
+209,ham,0
+210,hamburger buns,0
+211,hazelnut,1
+212,heavy cream,0
+213,herb,0
+214,hoisin sauce,0
+215,honey,1
+216,horseradish,0
+217,hot sauce,0
+218,ice,0
+219,italian bread,0
+220,italian salad dressing,0
+221,jalapeno,0
+222,japaleno,0
+223,jasmine,0
+224,jicama,0
+225,juniper berries,1
+226,kaffir lime leaves,0
+227,kale,0
+228,ketchup,0
+229,kidney beans,0
+230,lamb,0
+231,lard,0
+232,lasagna noodles,0
+233,leek,0
+234,lemon,1
+235,lemon extract,1
+236,lemon juice,1
+237,lemon lime soda,1
+238,lemon pepper seasoning,0
+239,lemon zest,1
+240,lemongrass,0
+241,lentil,0
+242,lettuce,0
+243,lima beans,0
+244,lime,1
+245,lime juice,1
+246,lime zest,1
+247,linguine,0
+248,liquid smoke,0
+249,macadamia nuts,1
+250,macaroni,0
+251,mace,1
+252,madeira,1
+253,malt vinegar,0
+254,mango,1
+255,mango nectar,1
+256,maple syrup,1
+257,maraschino cherries,1
+258,margarine,1
+259,marjoram,0
+260,marsala wine,1
+261,marshmallow,1
+262,mascarpone,0
+263,mayonnaise,0
+264,milk,1
+265,milk chocolate,1
+266,milk chocolate chip,1
+267,milk powder,1
+268,mint,1
+269,mixed vegetables,0
+270,molasses,1
+271,monterrey jack,0
+272,mozzarella,0
+273,mushroom,0
+274,mussels,0
+275,mustard,0
+276,mustard powder,0
+277,mustard seeds,0
+278,napa cabbage,0
+279,nectarine,1
+280,nutmeg,1
+281,nuts,1
+282,oat bran,1
+283,oats,1
+284,oil,0
+285,okra,0
+286,olive oil,0
+287,olives,0
+288,onion,0
+289,onion powder,0
+290,orange,1
+291,orange extract,1
+292,orange juice,1
+293,orange liqueur,1
+294,orange marmalade,1
+295,orange zest,1
+296,oregano,0
+297,orzo,0
+298,oyster,0
+299,oyster sauce,0
+300,pancetta,0
+301,panko bread crumbs,0
+302,papaya,1
+303,paprika,0
+304,parmesan,0
+305,parsley,0
+306,parsnip,0
+307,pasta,0
+308,peach,1
+309,peanut butter,1
+310,peanut oil,0
+311,peanuts,1
+312,pear,1
+313,peas,0
+314,pecan,1
+315,pecorino,0
+316,penne,0
+317,pepper,0
+318,peppermint extract,1
+319,pepperoni,0
+320,pesto,0
+321,phyllo dough,1
+322,pickels,0
+323,pine nuts,1
+324,pineapple,1
+325,pineapple juice,1
+326,pinto beans,0
+327,pistachios,0
+328,pizza dough,0
+329,plum,1
+330,pomegranate juice,1
+331,pomegranate molasses,1
+332,pomegranate seeds,1
+333,popcorn,0
+334,poppy seeds,1
+335,pork,0
+336,pork ,0
+337,port,1
+338,potato,0
+339,potato starch,0
+340,poultry seasoning,0
+341,provolone,0
+342,prune,1
+343,puff pastry,1
+344,pumpkin,0
+345,pumpkin pie spice,1
+346,pumpkin puree,0
+347,pumpkin seeds,0
+348,quinoa,0
+349,radicchio,0
+350,radish,0
+351,raisins,1
+352,ranch dressing,0
+353,raspberries,1
+354,raspberry jam,1
+355,red cabbage,0
+356,red food coloring,0
+357,red onion,0
+358,red pepper flakes,0
+359,red potato,0
+360,red wine,0
+361,red wine vinegar,0
+362,refried beans,0
+363,relish,0
+364,rhubarb,1
+365,rice,0
+366,rice flour,0
+367,rice krispies,1
+368,rice vinegar,0
+369,rice wine,0
+370,rice wine vinegar,0
+371,ricotta,0
+372,rosemary,0
+373,rotini,0
+374,rum,1
+375,rye flour,0
+376,saffron,0
+377,sage,0
+378,sake,0
+379,salmon,0
+380,salsa,0
+381,salt,0
+382,salt and pepper,0
+383,salted butter,0
+384,sauerkraut,0
+385,sausage,0
+386,savory,0
+387,savoy cabbage,0
+388,scallops,0
+389,seafood seasoning,0
+390,sesame oil,0
+391,sesame seeds,0
+392,shallot,0
+393,sherry,0
+394,sherry vinegar,0
+395,shortening,1
+396,shortnening,1
+397,shrimp,0
+398,simple syrup,1
+399,snow peas,0
+400,sour cream,0
+401,sourdough bread,0
+402,soy milk,1
+403,soy sauce,0
+404,spaghetti,0
+405,spaghetti sauce,0
+406,spaghetti squash,0
+407,spinach,0
+408,spring onion,0
+409,squash,0
+410,squid,0
+411,star anise,0
+412,steak sauce,0
+413,strawberries,1
+414,strawberry jam,1
+415,sugar,1
+416,sugar snap peas,0
+417,sun dried tomato,0
+418,sunflower oil,0
+419,sunflower seeds,0
+420,sweet potato,0
+421,swiss chard,0
+422,taco seasoning mix,0
+423,tahini,0
+424,tamarind paste,0
+425,tapioca,1
+426,tarragon,0
+427,tequila,1
+428,teriyaki sauce,0
+429,thyme,0
+430,tofu,0
+431,tomatillo,0
+432,tomato,0
+433,tomato juice,0
+434,tomato paste,0
+435,tomato sauce,0
+436,tomato soup,0
+437,torilla chips,0
+438,triple sec,1
+439,tuna,0
+440,turkey,0
+441,turmeric,0
+442,turnips,0
+443,vanilla,1
+444,vanilla bean,1
+445,vanilla extract,1
+446,vanilla ice cream,1
+447,vanilla pudding,1
+448,vanilla wafers,1
+449,vanilla yogurt,1
+450,vegetable broth,0
+451,vegetable oil,0
+452,venison,0
+453,vermouth,0
+454,vinegar,0
+455,vodka,1
+456,walnut oil,0
+457,walnuts,1
+458,water,0
+459,water chestnuts,0
+460,watercress,0
+461,watermelon,1
+462,wheat germ,0
+463,wheat gluten,0
+464,whipped cream,1
+465,whipping cream,1
+466,white beans,0
+467,white cake,1
+468,white chocolate,1
+469,white chocolate chips,1
+470,white wine,0
+471,white wine vinegar,0
+472,wholemeal flour,0
+473,wild rice,0
+474,wonton wrappers,0
+475,worcestershire sauce,0
+476,xanthan gum,0
+477,yellow cake,1
+478,yellow squash,0
+479,yogurt,1
+480,zucchini,0

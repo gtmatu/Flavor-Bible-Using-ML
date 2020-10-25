@@ -1,0 +1,118 @@
+,ingredient_x,ingredient_y,distance,pair_freq
+0,cajun seasoning,creole seasoning,0.666309955,0
+1,grand mariner,orange liqueur,0.752750542,0
+2,angel hair pasta,linguine,0.784852273,0
+3,angel hair pasta,fettucine,0.790393054,0
+4,pasta,rotini,0.79094553,0
+5,penne,rotini,0.791560481,0
+6,angel hair pasta,penne,0.813862593,0
+7,fettucine,penne,0.816249949,0
+8,penne,spaghetti squash,0.833139324,0
+9,broccoli rabe,escarole,0.834060595,0
+10,five spice,napa cabbage,0.836186797,0
+11,fettucine,pasta,0.847632824,0
+12,five spice powder,flank steak,0.87678366,0
+13,linguine,penne,0.8821305,0
+14,fettucine,linguine,0.893308543,0
+15,grapefruit juice,lemon lime soda,0.90090884,0
+16,dried chile,japaleno,0.90122403,0
+17,cod,halibut,0.904756199,0
+18,chocolate cake mix,vanilla wafers,0.914006289,0
+19,five spice powder,napa cabbage,0.918072047,0
+20,broccoli rabe,swiss chard,0.938043604,0
+21,japaleno,jicama,0.939362482,0
+22,five spice,flank steak,0.947321248,0
+23,linguine,pasta,0.951067605,0
+24,angel hair pasta,rotini,0.95603773,0
+25,vanilla wafers,white cake,0.960372588,0
+26,rotini,spaghetti squash,0.964355573,0
+27,arborio rice,fettucine,0.964451225,0
+28,asiago cheese,gouda,0.964597375,0
+29,orzo,penne,0.968512428,0
+30,italian bread,sourdough bread,0.969297692,0
+31,cherry pie filling,green food coloring,0.96934625,0
+32,lasagna noodles,pizza dough,0.980061992,0
+33,fettucine,fontina cheese,0.98095826,0
+34,rice wine,teriyaki sauce,0.990405685,0
+35,almond butter,greek yogurt,0.991985432,0
+36,five spice powder,water chestnuts,0.993207857,0
+37,baguette,sourdough bread,1.001456386,0
+38,amaretto liqueur,cherry pie filling,1.004487484,0
+39,italian bread,pizza dough,1.00688916,0
+40,asiago cheese,spaghetti squash,1.008778413,0
+41,asiago cheese,pesto,1.009677179,0
+42,napa cabbage,teriyaki sauce,1.012169134,0
+43,fettucine,rotini,1.013662746,0
+44,cottage cheese,pepperoni,1.015766741,0
+45,steak sauce,venison,1.016654249,0
+46,lasagna noodles,pepperoni,1.017466086,0
+47,spaghetti squash,swiss chard,1.019599163,0
+48,green food coloring,whipping cream,1.021759395,0
+49,berries,grand mariner,1.023949751,0
+50,pomegranate seeds,walnut oil,1.024533288,0
+51,soy milk,vanilla yogurt,1.025490451,0
+52,five spice powder,teriyaki sauce,1.025689264,0
+53,flank steak,pork ,1.025757164,0
+54,bean sprouts,jasmine,1.02699365,0
+55,celery leaves,oyster,1.030266217,0
+56,amaretto liqueur,green food coloring,1.033580189,0
+57,berries,fruit,1.037276311,0
+58,fontina cheese,spaghetti squash,1.040400358,0
+59,orzo,spaghetti squash,1.042589495,0
+60,angel hair pasta,arborio rice,1.048501841,0
+61,bulgur,pomegranate molasses,1.04995575,0
+62,escarole,herb,1.052366023,0
+63,coconut extract,cornflakes,1.053018331,0
+64,provolone,spaghetti squash,1.055113586,0
+65,champagne,lemon lime soda,1.055183879,0
+66,grapefruit,pomegranate seeds,1.055237368,0
+67,italian bread,spaghetti squash,1.055490879,0
+68,peppermint extract,vanilla wafers,1.056506052,0
+69,frosting,vanilla wafers,1.058117345,0
+70,cake,vanilla wafers,1.058866193,0
+71,angel hair pasta,orzo,1.059647225,0
+72,milk powder,soy milk,1.060127196,0
+73,red food coloring,vanilla wafers,1.060728333,0
+74,angel hair pasta,spaghetti squash,1.061885934,0
+75,golden syrup,orange liqueur,1.062462982,0
+76,asiago cheese,penne,1.062987173,0
+77,chopped nuts,cornflakes,1.064132652,0
+78,grand mariner,orange extract,1.066104382,0
+79,baguette,swiss chard,1.066987588,0
+80,fettucine,pesto,1.068723201,0
+81,baguette,italian bread,1.069111118,0
+82,jasmine,rice wine,1.069646145,0
+83,chocolate cake mix,white chocolate chips,1.072744012,0
+84,cod,oyster,1.073729206,0
+85,madeira,marsala wine,1.073942475,0
+86,fettucine,spaghetti squash,1.074702456,0
+87,black eyed peas,white beans,1.076601492,0
+88,amaretto liqueur,grapefruit juice,1.076886847,0
+89,herb,pancetta,1.076944701,0
+90,cognac,port,1.077206271,0
+91,chestnuts,five spice powder,1.078216096,0
+92,cannellini beans,spaghetti squash,1.078516867,0
+93,italian bread,penne,1.078646673,0
+94,linguine,spaghetti squash,1.079149986,0
+95,lentil,white beans,1.079161529,0
+96,mixed vegetables,tomato soup,1.079369841,0
+97,papaya,tequila,1.080599068,0
+98,linguine,orzo,1.080769617,0
+99,penne,provolone,1.083560135,0
+100,creole seasoning,poultry seasoning,1.085799064,0
+101,chocolate syrup,vanilla wafers,1.085961253,0
+102,fish stock,madeira,1.08667581,0
+103,greek yogurt,vanilla yogurt,1.087828995,0
+104,arborio rice,linguine,1.088696596,0
+105,orzo,pasta,1.089511381,0
+106,orzo,rotini,1.090334801,0
+107,fontina cheese,swiss chard,1.091002737,0
+108,berries,nectarine,1.095583633,0
+109,italian bread,pepperoni,1.0956007,0
+110,swiss chard,white beans,1.095741422,0
+111,baguette,escarole,1.096137479,0
+112,cake,strawberry jam,1.096235266,0
+113,amaretto liqueur,cake,1.096404134,0
+114,almond paste,berries,1.09862917,0
+115,frosting,strawberry jam,1.098648685,0
+116,celery leaves,creole seasoning,1.099710104,0

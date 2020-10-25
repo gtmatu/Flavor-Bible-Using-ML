@@ -1,0 +1,5 @@
+*.pyc
+fyp_env
+dataset
+.ipynb_checkpoints
+.vscode

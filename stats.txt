@@ -1,0 +1,10 @@
+1M count: 51235
+BBC count: 10599
+Epicurious count: 34656
+Allrecipes count: 225602
+Cookstr count: 7918
+
+
+
+Total count: 330,010 recipes 
+Ingredient count: 2,380,819 

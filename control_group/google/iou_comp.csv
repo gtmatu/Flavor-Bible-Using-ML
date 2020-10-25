@@ -1,0 +1,108 @@
+,ingredient_x,ingredient_y,distance,pair_freq
+0,arborio rice,cherry pie filling,0.056199716165046855,0.0
+1,juniper berries,pomegranate molasses,0.06109793768493902,0.0
+2,bean sprouts,cajun seasoning,0.06832005234205561,0.0
+3,fennel,papaya,0.07187177712325654,0.0
+4,lemon extract,sausage,0.07387939331418497,0.0
+5,bean sprouts,dates,0.07547075285978345,0.0
+6,almond paste,mixed vegetables,0.07603770424826635,0.0
+7,onion powder,peppermint extract,0.07607772426538921,0.0
+8,cake,mustard seeds,0.07803715541424355,0.0
+9,angostura bitters,sun dried tomato,0.07837047228044716,0.0
+10,beets,lemongrass,0.07905435289544276,0.0
+11,flank steak,mixed vegetables,0.07908055358644629,0.0
+12,angostura bitters,kaffir lime leaves,0.0795533282349074,0.0
+13,celery salt,macadamia nuts,0.0798885152115358,0.0
+14,chestnuts,sweetener,0.0824370197438038,0.0
+15,bok choy,ranch dressing,0.08265991706474521,0.0
+16,apricot jam,chickpeas,0.0828407078579221,0.0
+17,ketchup,simple syrup,0.08318756161902971,0.0
+18,avocado,vanilla pudding,0.08332191848567326,0.0
+19,potato starch,spaghetti sauce,0.08333439388769263,0.0
+20,almond butter,beef broth,0.08345639054132031,0.0
+21,pickels,wheat germ,0.08455394460389597,0.0
+22,capers,mango nectar,0.0845757180570953,0.0
+23,allspice,cheese blend,0.0848748398749102,0.0
+24,chestnuts,orange liqueur,0.08516774714255328,0.0
+25,fish,red cabbage,0.08616975622839883,0.0
+26,balsamic vinegar,orange liqueur,0.08644452540669714,0.0
+27,malt vinegar,tuna,0.0864525806369056,0.0
+28,biscuit baking mix,champagne,0.0866751753279901,0.0
+29,chocolate syrup,spaghetti squash,0.0867645701867691,0.0
+30,kale,vodka,0.08692425185453354,0.0
+31,crackers,mango nectar,0.08733247779477113,0.0
+32,icing,mussels,0.08757165389691901,0.0
+33,almond extract,madeira,0.08772858824756488,0.0
+34,cranberry juice,eggnog,0.08796838877352901,0.0
+35,barley,chorizo,0.08877708786264299,0.0
+36,cardamom pods,hamburger buns,0.08881161600258776,0.0
+37,ricotta,wheat gluten,0.08896186924838939,0.0
+38,jicama,whipping cream,0.08926907801596631,0.0
+39,bulgur,white cake,0.0894510027478994,0.0
+40,apricot,potato starch,0.0905729675597469,0.0
+41,mint,red food coloring,0.09072973542383347,0.0
+42,celery seeds,orange marmalade,0.09076122010309685,0.0
+43,pesto,pinto beans,0.09077940929761924,0.0
+44,coconut extract,peanuts,0.09088297335438907,0.0
+45,squash,torilla chips,0.09104315421611148,0.0
+46,anchovy,white chocolate chips,0.09108973517873795,0.0
+47,orange extract,vanilla ice cream,0.09117632255235812,0.0
+48,fish sauce,ginger ale,0.09125539797426245,0.0
+49,taco seasoning mix,triple sec,0.09141419817569595,0.0
+50,clam juice,curry leaves,0.09170518530564797,0.0
+51,glaze,yellow squash,0.09203660582405111,0.0
+52,lima beans,vanilla extract,0.09207733535756416,0.0
+53,grenadine,nectarine,0.0921019140304578,0.0
+54,cream of chicken soup,fontina cheese,0.09226290870910767,0.0
+55,condensed milk,sesame oil,0.09238601765923904,0.0
+56,champagne,oyster sauce,0.09250574679189054,0.0
+57,salted butter,sweetener,0.0925942777291883,0.0
+58,apple juice,sherry,0.09264659848420986,0.0
+59,blue cheese,broccoli rabe,0.09273601849442845,0.0
+60,basil,butterscotch chips,0.0932276715801702,0.0
+61,active dry yeast,white chocolate,0.09325073770113575,0.0
+62,fig,peanut oil,0.09385748067191722,0.0
+63,ghee,icing,0.0942456520261113,0.0
+64,baguette,oat bran,0.09492861917536959,0.0
+65,goji berries,napa cabbage,0.09507749668005527,0.0
+66,pomegranate seeds,wonton wrappers,0.0952214293187853,0.0
+67,almond flour,gin,0.0953140837745024,0.0
+68,greens,wheat gluten,0.09540329501994704,0.0
+69,salsa,tahini,0.09542029869529513,0.0
+70,ice,milk chocolate chip,0.09560606301542175,0.0
+71,clams,kaffir lime leaves,0.09579400931448297,0.0
+72,gin,orange extract,0.09591671952324117,0.0
+73,triple sec,watercress,0.09591719628646445,0.0
+74,fettucine,xanthan gum,0.09606384941598647,0.0
+75,milk powder,tequila,0.09619629084961752,0.0
+76,radish,wheat germ,0.09643864988524826,0.0
+77,amaretto liqueur,five spice powder,0.09643896241092674,0.0
+78,chia seeds,tomato sauce,0.09664283008414724,0.0
+79,herb,nectarine,0.09669323769678241,0.0
+80,lemongrass,parmesan,0.09682540561982848,0.0
+81,penne,shortening,0.097092760399434,0.0
+82,dried chile,spaghetti sauce,0.09712525466513275,0.0
+83,cranberries,marsala wine,0.097142511756772,0.0
+84,squid,white beans,0.0971895429501857,0.0
+85,celery salt,pie dough,0.09732020234107538,0.0
+86,provolone,red food coloring,0.09762768777700415,0.0
+87,chives,pumpkin pie spice,0.09775729458005679,0.0
+88,feta,walnut oil,0.09802513693987543,0.0
+89,goji berries,puff pastry,0.09814575204681254,0.0
+90,croutons,walnut oil,0.09828726341096611,0.0
+91,arborio rice,milk chocolate chip,0.09850405218694548,0.0
+92,gin,tomato soup,0.0985338520578008,0.0
+93,madeira,xanthan gum,0.09856227090128773,0.0
+94,linguine,pumpkin seeds,0.09862821107068835,0.0
+95,peach,popcorn,0.09870871595935599,0.0
+96,milk powder,snow peas,0.09873956154719207,0.0
+97,rhubarb,rice flour,0.09897091199291277,0.0
+98,cannellini beans,mace,0.09919913461829229,0.0
+99,fruit,snow peas,0.09923008757690135,0.0
+100,acorn squash,apple sauce,0.0992461466377,0.0
+101,frosting,port,0.0995786418553502,0.0
+102,cannellini beans,crabmeat,0.09964608186929326,0.0
+103,curry leaves,egg white,0.09983147383375679,0.0
+104,milk chocolate,rice vinegar,0.09985933337014118,0.0
+105,venison,vermouth,0.09986148893822588,0.0
+106,jicama,mustard powder,0.0998756231028907,0.0

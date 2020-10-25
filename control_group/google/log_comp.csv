@@ -1,0 +1,113 @@
+,ingredient_x,ingredient_y,distance,pair_freq
+0,cornflakes,lard,1.1148005432399766,0.0
+1,juniper berries,walnut oil,1.1379698544052614,0.0
+2,fish,tahini,1.2000977966484228,0.0
+3,arborio rice,sourdough bread,1.2231324733067181,0.0
+4,herb,mussels,1.2233501875886057,0.0
+5,phyllo dough,pork ,1.239599170722538,0.0
+6,oat bran,popcorn,1.250993853579068,0.0
+7,croutons,spaghetti sauce,1.3076268624895748,0.0
+8,eggnog,vanilla wafers,1.3349955605254011,0.0
+9,parsnip,radicchio,1.343459275248354,0.0
+10,chestnuts,jicama,1.3483451676932647,0.0
+11,vermouth,walnut oil,1.3853962625000233,0.0
+12,acorn squash,bulgur,1.3938908098302096,0.0
+13,five spice powder,tamarind paste,1.395848829677096,0.0
+14,fish,wonton wrappers,1.406106642959787,0.0
+15,eggnog,strawberry jam,1.4122225895570257,0.0
+16,lemon pepper seasoning,lentil,1.4128580857073174,0.0
+17,croutons,rotini,1.4156141846089896,0.0
+18,mace,mascarpone,1.4365043220415337,0.0
+19,sauerkraut,steak sauce,1.4607550062774748,0.0
+20,greek yogurt,phyllo dough,1.4971517986371319,0.0
+21,italian bread,savory,1.4984817035359768,0.0
+22,egg noodles,mustard powder,1.4987111159648636,0.0
+23,mandarin,potato starch,1.5210243324216357,0.0
+24,five spice,tamarind paste,1.5242121036756808,0.0
+25,gouda,lasagna noodles,1.5261453622596266,0.0
+26,milk powder,rice krispies,1.5356666832825896,0.0
+27,lasagna noodles,pepperoni,1.5457839563504725,0.0
+28,poultry seasoning,venison,1.549067401457023,0.0
+29,corn tortillas,mustard powder,1.5648656912206986,0.0
+30,marsala wine,pizza dough,1.5972710853441896,0.0
+31,almond butter,rice flour,1.5988779545362475,0.0
+32,seafood seasoning,tuna,1.6006505628671845,0.0
+33,soy milk,sunflower seeds,1.6021530803880988,0.0
+34,currants,mascarpone,1.6120154253924215,0.0
+35,brussel sprout,squid,1.6177849258641428,0.0
+36,creole seasoning,macaroni,1.625090361908797,0.0
+37,chestnuts,jasmine,1.6338069272341735,0.0
+38,anchovy paste,swiss chard,1.6399329848184188,0.0
+39,pasta,spaghetti,1.6461701658547427,0.0
+40,baguette,parsnip,1.661058108196742,0.0
+41,cajun seasoning,tomato juice,1.6656655509339164,0.0
+42,pork ,savory,1.6667394201371843,0.0
+43,coconut extract,nuts,1.6704520721622214,0.0
+44,ice,orange marmalade,1.697019442657006,0.0
+45,dried chile,pickels,1.702859270786935,0.0
+46,savory,spaghetti squash,1.705195189288297,0.0
+47,mandarin,mango nectar,1.7086100861276798,0.0
+48,asiago cheese,italian bread,1.7095938559355333,0.0
+49,corn kernels,lemon pepper seasoning,1.710144728466495,0.0
+50,popcorn,wheat gluten,1.7183192528408,0.0
+51,biscuit baking mix,lard,1.7226706328333539,0.0
+52,angel hair pasta,white beans,1.730222072654582,0.0
+53,cardamom pods,squash,1.7309955606559475,0.0
+54,pickels,tomatillo,1.7367574039316984,0.0
+55,oyster,radicchio,1.743974229087618,0.0
+56,agave nectar,mandarin,1.7584646941396767,0.0
+57,salted butter,tapioca,1.782950489994756,0.0
+58,greek yogurt,pork ,1.783224369318775,0.0
+59,egg white,strawberry jam,1.784799549017129,0.0
+60,dressing,flank steak,1.7877619932862299,0.0
+61,fettucine,swiss chard,1.7992793662960813,0.0
+62,gouda,spaghetti squash,1.7994027000249182,0.0
+63,escarole,sourdough bread,1.8117218403949753,0.0
+64,macadamia nuts,sweetener,1.8223717015220737,0.0
+65,baby carrot,mussels,1.83398685468918,0.0
+66,nuts,xanthan gum,1.8409662095019872,0.0
+67,angel hair pasta,spaghetti,1.8508423946079011,0.0
+68,brown rice,tomatillo,1.8586625179701586,0.0
+69,cognac,port,1.8750072960205189,0.0
+70,pepperoni,venison,1.8759115844666818,0.0
+71,peanut butter,poppy seeds,1.8824600140911625,0.0
+72,lasagna noodles,spaghetti squash,1.8831557326622395,0.0
+73,amaretto liqueur,rhubarb,1.890925144507336,0.0
+74,greens,squid,1.8912889861221338,0.0
+75,biscuit baking mix,cornflakes,1.8976472160569111,0.0
+76,grapeseed oil,sunflower oil,1.9016774002073025,0.0
+77,chia seeds,macadamia nuts,1.9076362788240107,0.0
+78,brussel sprout,mussels,1.9270941242122008,0.0
+79,corn tortillas,flour tortillas,1.9295207878186327,0.0
+80,anchovy paste,orzo,1.9314325400086345,0.0
+81,pepperoni,spaghetti squash,1.9327484159775543,0.0
+82,linguine,white beans,1.9589316663571716,0.0
+83,broccoli rabe,wild rice,1.9603311280193307,0.0
+84,fettucine,fontina cheese,1.9615575834141936,0.0
+85,cherry pie filling,green food coloring,1.9666032015048855,0.0
+86,coffee liqueur,raspberry jam,1.9742844163994775,0.0
+87,liquid smoke,refried beans,1.975126800045153,0.0
+88,almond flour,oat bran,1.9751795929913616,0.0
+89,chorizo,tomato juice,1.9775071155744013,0.0
+90,black eyed peas,celery seeds,1.9831204613135012,0.0
+91,almond butter,xanthan gum,1.9841986643325438,0.0
+92,corn oil,teriyaki sauce,1.986328973902779,0.0
+93,black eyed peas,egg noodles,1.9868093359978822,0.0
+94,brussel sprout,greens,1.988779761030402,0.0
+95,pork ,spaghetti squash,1.9998939255858816,0.0
+96,glaze,white chocolate chips,2.0042967648924948,0.0
+97,macadamia nuts,nuts,2.0217307014208004,0.0
+98,bulgur,sourdough bread,2.025700819655313,0.0
+99,corn oil,pickels,2.0350541714404073,0.0
+100,almond paste,orange extract,2.0412994209315767,0.0
+101,madeira,vermouth,2.0415446020348322,0.0
+102,italian bread,pizza dough,2.041839819740029,0.0
+103,artichoke,swiss chard,2.043337276766638,0.0
+104,penne,spaghetti,2.0442772604025006,0.0
+105,artichoke,orzo,2.0589302440032515,0.0
+106,pistachios,vodka,2.0609855737595364,0.0
+107,acorn squash,marsala wine,2.070552172925196,0.0
+108,juniper berries,pomegranate molasses,2.076970373718693,0.0
+109,chocolate chips,lemon extract,2.0825287769549097,0.0
+110,nectarine,orange marmalade,2.0867086137271076,0.0
+111,barley,rotini,2.08745236740511,0.0
